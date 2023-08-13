@@ -1,3 +1,10 @@
+
+
+
+
+/*Test that code
+
+
 const Header = (title, date, temp) => {
   // TASK 1
   // ---------------------
@@ -29,3 +36,7 @@ const headerAppender = (selector) => {
 }
 
 export { Header, headerAppender }
+
+
+
+*/

@@ -1,3 +1,11 @@
+/*Testing code 
+
+
+
+
+
+
+
 const Card = (article) => {
   // TASK 5
   // ---------------------
@@ -31,3 +39,7 @@ const cardAppender = (selector) => {
 }
 
 export { Card, cardAppender }
+
+
+
+Testing Code again*/
